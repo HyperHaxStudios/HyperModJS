@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  },
+  "name": "hypermod",
+  "version": "1.0.0",
+  "description": "A Discord Bot made in JavaScript!",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^8.26.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HyperHax",
+  "license": "ISC"
+}
