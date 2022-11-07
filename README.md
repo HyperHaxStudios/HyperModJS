@@ -9,7 +9,7 @@ An IDE ([VSCode](https://code.visualstudio.com) etc.)
 Knowledge of making a Discord bot and Discord server and how to get the bot's Application ID, token and the Server's Guild ID
 
 # Making the Discord Bot
-1. Go to the (Discord Development Portal)[https://developer.discord.com/applications].
+1. Go to the [Discord Development Portal](https://developer.discord.com/applications).
 2. Click "New Application."
 3. Call it whatever you want. I named mine HyperMod.
 4. Go to the "Bot" tab and click "Create Bot". Then, Click "Yes, do it!"
